@@ -1,3 +1,5 @@
+//From this code, you can see what does recursive BACKTRACING means,
+//and also the technique to simplify task is also impressive :)
 // this code would solve the n-Queen problem, 
 // the code would record the number of solutions to 
 // the size-n problem, and print out the board. 
