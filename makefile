@@ -1,3 +1,3 @@
 all:
-	g++ -ggdb tile.cpp -o /tmp/test
+	g++ -ggdb nQueen.cpp -o /tmp/test
 	/tmp/test
